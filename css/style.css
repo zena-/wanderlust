@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Condiment);
+@import url(http://fonts.googleapis.com/css?family=Sail);
+
+p{
+	font-size: 1.2em;
+	line-height:  1.5em;
+	font-family:'Condiment', cursive;
+	background-color: silver;
+}
+
+#nek {
+	  background-color: white;
+	  background-size: 3em;
+}
+
+.nek {
+	font: bold 4em 'Sail', cursive;
+	color: rgb(191,131,87);
+	text-shadow: 0 2px 3px #000;
+	background-color: white;
+}
+
+.ne {
+	font: bold 2em 'Sail', cursive;
+	color: rgb(191,131,87);
+	background-color: white;
+}
+
+#me {
+	font-size: 1.2em;
+	font-family:'Times New Roman'; Times; 
+}
+
+
+
+
+
+
+
+
+
+
+
