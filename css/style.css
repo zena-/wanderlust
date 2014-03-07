@@ -5,11 +5,9 @@ p{
 	font-size: 1.2em;
 	line-height:  1.5em;
 	font-family:'Condiment', cursive;
-	background-color: silver;
 }
 
 #nek {
-	  background-color: white;
 	  background-size: 3em;
 }
 
@@ -17,13 +15,11 @@ p{
 	font: bold 4em 'Sail', cursive;
 	color: rgb(191,131,87);
 	text-shadow: 0 2px 3px #000;
-	background-color: white;
 }
 
 .ne {
 	font: bold 2em 'Sail', cursive;
 	color: rgb(191,131,87);
-	background-color: white;
 }
 
 #me {
@@ -33,11 +29,24 @@ p{
 
 
 
+.header {
+	position: fixed;
+	font-size: 2em;
+}
 
-
-
-
-
+a:link {
+	color: black;
+}
+a:visited {
+	color: silver;
+}
+a:hover {
+	color: olive;
+	font-weight: bold;
+}
+a:active {
+	color: lime;
+}
 
 
 
