@@ -66,5 +66,9 @@ img {
 	box-shadow: 0 3px 10px #333;
 }
 
-
-
+#fir {
+	position: absolute;
+}
+#sec {
+	position: absolute;
+}
